@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PaymentRestAPISuite" duration-ms="6547" started-at="2020-05-24T07:00:51Z" finished-at="2020-05-24T07:00:58Z">
+    <groups>
+    </groups>
+    <test name="PaymentRestAPISuite" duration-ms="6547" started-at="2020-05-24T07:00:51Z" finished-at="2020-05-24T07:00:58Z">
+      <class name="com.paypalpayment.testcases.PaymentTestcases">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.paypalpayment.testcases.PaymentTestcases@3532ec19]" name="setup" is-config="true" duration-ms="2764" started-at="2020-05-24T07:00:51Z" finished-at="2020-05-24T07:00:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="createAPayment()[pri:0, instance:com.paypalpayment.testcases.PaymentTestcases@3532ec19]" name="createAPayment" duration-ms="2362" started-at="2020-05-24T07:00:54Z" finished-at="2020-05-24T07:00:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAPayment -->
+        <test-method status="PASS" signature="getPaymentDetails()[pri:0, instance:com.paypalpayment.testcases.PaymentTestcases@3532ec19]" name="getPaymentDetails" duration-ms="1225" started-at="2020-05-24T07:00:56Z" finished-at="2020-05-24T07:00:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPaymentDetails -->
+      </class> <!-- com.paypalpayment.testcases.PaymentTestcases -->
+    </test> <!-- PaymentRestAPISuite -->
+  </suite> <!-- PaymentRestAPISuite -->
+</testng-results>
